@@ -1,7 +1,7 @@
 User:
 1.
 Name: Sapik 
-Email: Sapik@sch.id 
+Email: sapik@sch.id 
 Pw: 12345
 
 2.
