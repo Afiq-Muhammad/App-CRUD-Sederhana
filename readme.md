@@ -13,3 +13,6 @@ Pw: miaw
 Name:Reno
 Email:reno@sc.id
 Pw: secret
+
+!Disclaimer
+Tidak include multi page antar user (klau ingin di pakai sebagai belajar dan silahkan di download )
